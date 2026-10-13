@@ -1,0 +1,51 @@
+# 🎲 Pig Game
+
+A fun, turn-based dice game for two players, built with HTML, CSS, and JavaScript .
+
+![Pig Game Screenshot](screenshot.png)
+
+- **Source Code:** [GitHub Repository](https://github.com/m3tazbaha01-collab/Pig-game.git)
+
+## 📖 About the Project
+
+Pig Game is a two-player dice game where players take turns rolling a die to accumulate points. Players must decide when to keep rolling and when to hold their score to avoid losing their current points.
+
+This project was completed as a learning exercise inspired by Jonas Schmedtmann's JavaScript course on Udemy.
+
+## 🎮 How to Play
+
+1. Click **Roll Dice** to roll the die.
+2. The rolled number is added to your current score.
+3. Click **Hold** to save your current score and pass the turn to the other player.
+4. Rolling a **1** resets your current score and ends your turn.
+5. The first player to reach **100 points** wins the game.
+6. Click **New Game** to start over.
+
+## ✨ Features
+
+- Two-player turn-based gameplay
+- Random dice rolls
+- Current and total score tracking
+- Hold and turn-switching mechanics
+- Winning condition and game reset
+- Interactive user interface
+
+## 🛠️ Built With
+
+- **HTML5** — Page structure
+- **CSS3** — Styling and layout
+- **JavaScript** — Game logic, DOM manipulation, and event handling
+
+## 💡 Work by
+
+- Selecting and manipulating DOM elements
+- Handling user interactions with event listeners
+- Managing game state and player turns
+- Working with conditional logic and random numbers
+- Updating the interface dynamically with JavaScript
+
+## 👨‍💻 Author
+
+**Muataz Baha**
+
+- GitHub: [@m3tazbaha01-collab](https://github.com/m3tazbaha01-collab)
